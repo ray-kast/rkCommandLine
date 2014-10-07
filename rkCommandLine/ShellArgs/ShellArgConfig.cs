@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace rkCommandLine
-{
-    public class Class1
-    {
-    }
+namespace rkCommandLine.ShellArgs {
+  public class ShellArgConfig {
+
+  }
 }
